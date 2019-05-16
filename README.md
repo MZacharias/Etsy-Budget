@@ -1,4 +1,4 @@
-# EtsyBudget
+# Etsy Budget
 
 This C# application facilitates OAuth connections to the Etsy API to create a custom monthly budget Excel worksheet.  Another intention of the project is to retrieve all fees into the budget to realize overall net profits.  These additional fees are not currently included in reports through the website.
 
