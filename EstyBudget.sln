@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstyBudget", "EstyBudget\EstyBudget.csproj", "{F3637702-3E8D-4B59-B690-AF9B066F8850}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OAuth.net", "OAuth\OAuth.net.csproj", "{C0B5EE99-463A-45B2-A223-CB34825281E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3637702-3E8D-4B59-B690-AF9B066F8850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3637702-3E8D-4B59-B690-AF9B066F8850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3637702-3E8D-4B59-B690-AF9B066F8850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3637702-3E8D-4B59-B690-AF9B066F8850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0B5EE99-463A-45B2-A223-CB34825281E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B5EE99-463A-45B2-A223-CB34825281E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B5EE99-463A-45B2-A223-CB34825281E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B5EE99-463A-45B2-A223-CB34825281E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A1D6A23-C4CC-4305-B05C-46BE21954C0A}
+	EndGlobalSection
+EndGlobal
